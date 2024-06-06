@@ -1,0 +1,18 @@
+bank-app/
+│
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── Login.js
+│   │   ├── Register.js
+│   │   ├── Dashboard.js
+│   │   ├── Account.js
+│   │   └── Transaction.js
+│   │
+│   ├── App.js
+│   ├── index.js
+│   ├── styles.css
+│   └── serviceWorker.js
+│
+└── package.json

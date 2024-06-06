@@ -1,0 +1,25 @@
+bank-api/
+│
+├── controllers/
+│   ├── authController.js
+│   ├── transactionController.js
+│   └── userController.js
+│
+├── models/
+│   ├── transactionModel.js
+│   ├── userModel.js
+│   └── accountModel.js
+│
+├── routes/
+│   ├── authRoutes.js
+│   ├── transactionRoutes.js
+│   └── userRoutes.js
+│
+├── middlewares/
+│   └── authMiddleware.js
+│
+├── config/
+│   └── db.js
+│
+├── app.js
+└── package.json
